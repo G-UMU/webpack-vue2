@@ -1,2 +1,21 @@
-# webpack-vue2
-1、解决scss/less使用/deep/穿透失效问题；2、解决Requires Babel ^7.0.0 0, but was loaded with 6.26.3问题
+# wv
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install（建议使用cnpm）
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
