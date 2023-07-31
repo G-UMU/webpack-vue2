@@ -1,6 +1,6 @@
 # webpack+vue2
 
-> 本项目并没有实质性内容，只是使用webpack+vue搭建框架，并解决一些版本不兼容问题
+> 本项目并没有实质性内容，只是使用webpack+vue2搭建框架，并解决一些版本不兼容问题
 
 ## Build Setup
 
